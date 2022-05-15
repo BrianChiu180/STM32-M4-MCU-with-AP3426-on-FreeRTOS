@@ -1,0 +1,7 @@
+C:/Folder/ST workspace/rtostest02/Core/Src/ap3426.c:41:6:AP3426_WriteOneByte	32	static
+C:/Folder/ST workspace/rtostest02/Core/Src/ap3426.c:51:9:AP3426_ReadOneByte	32	static
+C:/Folder/ST workspace/rtostest02/Core/Src/ap3426.c:66:9:AP3426_Init	8	static
+C:/Folder/ST workspace/rtostest02/Core/Src/ap3426.c:83:6:AP3426_Read_IR_Data	24	static
+C:/Folder/ST workspace/rtostest02/Core/Src/ap3426.c:98:6:AP3426_Read_ALS_Data	24	static
+C:/Folder/ST workspace/rtostest02/Core/Src/ap3426.c:106:6:AP3426_Read_PS_Data	24	static
+C:/Folder/ST workspace/rtostest02/Core/Src/ap3426.c:122:6:AP3426_ReadDataTest	16	static
